@@ -1,0 +1,201 @@
+{
+    "distribution": [
+        {
+            "index": 0,
+            "address": "0x1b324A4Ea3545d774b4c40A77ddf5F22370DE0a1",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x1eca955e9b65e00000"
+            }
+        },
+        {
+            "index": 1,
+            "address": "0xD1352563d6C687D29D55f9d1A7a14CbB0682a4Dc",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x100bd33fb98ba00000"
+            }
+        },
+        {
+            "index": 2,
+            "address": "0x052510DC9a132617e0980Cf197f25b8dba8Cb943",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x19196a6eebbddc0000"
+            }
+        },
+        {
+            "index": 3,
+            "address": "0x128Ef587f01aE44a82388502c26Dfa91eb7F4840",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x218e59c465becc0000"
+            }
+        },
+        {
+            "index": 4,
+            "address": "0x1bbc6C26632db4Df871f3194Cb7567B6196018F8",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x28fb9b8a8a53500000"
+            }
+        },
+        {
+            "index": 5,
+            "address": "0x5cc65977e8cFa47eF8Bde53E435e2bC4370D54a9",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x0a922b2ad8812c0000"
+            }
+        },
+        {
+            "index": 6,
+            "address": "0xDdc36A283C8f677B856FAa703C10C0BA783A8693",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x2723c346ae18080000"
+            }
+        },
+        {
+            "index": 7,
+            "address": "0xaC2d939c5F02dC4e5EfCAa63A93238A75B4ACfb2",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x2288269d0783d40000"
+            }
+        },
+        {
+            "index": 8,
+            "address": "0x6614D94f40B279Cd0A0BDf20B09f146a5F3b9628",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x204148a38e0d6c0000"
+            }
+        },
+        {
+            "index": 9,
+            "address": "0xcB3B49567aAA9B5b512B1C55936128d118d84ba9",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x0b6255df5f50080000"
+            }
+        },
+        {
+            "index": 10,
+            "address": "0x642490D969be8B16A1DCa3159BFB73a04b215E03",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x26d07efe782bb00000"
+            }
+        },
+        {
+            "index": 11,
+            "address": "0x9032d29b968efAf802637cAEF570FEaF575e1094",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x02df85d331a7b40000"
+            }
+        },
+        {
+            "index": 12,
+            "address": "0xe38935D4E325c04D92F50897588dDD06c3025FC4",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x2f000ac26fe7ac0000"
+            }
+        },
+        {
+            "index": 13,
+            "address": "0x22F84bB71a5A2A49b892cf85e9643cFf2cbdc3bE",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x212d34c57c2b100000"
+            }
+        },
+        {
+            "index": 14,
+            "address": "0xA78245edB53946626851b639E880CEd62e7b5f9f",
+            "amount": {
+                "type": "BigNumber",
+                "hex": "0x2c65e880c084ec0000"
+            }
+        }
+    ],
+    "privateKeys": [
+        {
+            "index": 0,
+            "address": "0x1b324A4Ea3545d774b4c40A77ddf5F22370DE0a1",
+            "privateKey": "0x4246236d5da51097f77e58baae4a86179e242f66426f37aef56ba61438a877e0"
+        },
+        {
+            "index": 1,
+            "address": "0xD1352563d6C687D29D55f9d1A7a14CbB0682a4Dc",
+            "privateKey": "0x8396aa06dc771e5516d423dd03dc3963197c7311ca8c8320e30fb03fe8f9d4d4"
+        },
+        {
+            "index": 2,
+            "address": "0x052510DC9a132617e0980Cf197f25b8dba8Cb943",
+            "privateKey": "0x4a810c04740589b3ca659b8e6da1981e050973b4ec57772a17ce97da32a023cb"
+        },
+        {
+            "index": 3,
+            "address": "0x128Ef587f01aE44a82388502c26Dfa91eb7F4840",
+            "privateKey": "0xa0c6068cb41fab32948f04d9ba0b35462f60f5dc4931fdbcf93c5230d5cb3a70"
+        },
+        {
+            "index": 4,
+            "address": "0x1bbc6C26632db4Df871f3194Cb7567B6196018F8",
+            "privateKey": "0x764c1aa0f988977766b439c37352b4c4f2534ac2b6a1ad55d61c0bac98603c69"
+        },
+        {
+            "index": 5,
+            "address": "0x5cc65977e8cFa47eF8Bde53E435e2bC4370D54a9",
+            "privateKey": "0xea2c05cfe86263621c9f4dd7ec22e5aa341b8388060c42511f71ca46275f914f"
+        },
+        {
+            "index": 6,
+            "address": "0xDdc36A283C8f677B856FAa703C10C0BA783A8693",
+            "privateKey": "0x8f2e4933124d2a2dc6bb3d8d35d5f895161cbf7a72c0307f5892ac22dae55b4a"
+        },
+        {
+            "index": 7,
+            "address": "0xaC2d939c5F02dC4e5EfCAa63A93238A75B4ACfb2",
+            "privateKey": "0xeca5c406c738d8e36033adb3d4dd11af3cf340cdad5f1ff7608f6ac6acbd7e19"
+        },
+        {
+            "index": 8,
+            "address": "0x6614D94f40B279Cd0A0BDf20B09f146a5F3b9628",
+            "privateKey": "0xa788cc343072f2d5482d2d21f0df104bbfb22bbdf02d9a3a722034bb6180686a"
+        },
+        {
+            "index": 9,
+            "address": "0xcB3B49567aAA9B5b512B1C55936128d118d84ba9",
+            "privateKey": "0x615b7b4f220f7a50258f233bbc72a9ba822c499b3f59eea04e03d2341ac572ce"
+        },
+        {
+            "index": 10,
+            "address": "0x642490D969be8B16A1DCa3159BFB73a04b215E03",
+            "privateKey": "0xf24d79c35b032ae593efadca9766ab32647c3c39e9660ebfc2397e211bd8f450"
+        },
+        {
+            "index": 11,
+            "address": "0x9032d29b968efAf802637cAEF570FEaF575e1094",
+            "privateKey": "0x9edfcaf052a519de7289223f6ccd9497fa40777d2ea6562b27c3e885a1a2931f"
+        },
+        {
+            "index": 12,
+            "address": "0xe38935D4E325c04D92F50897588dDD06c3025FC4",
+            "privateKey": "0xba61175604a368ead492d6e25278281b3f1d6ff23442bcf8d2e052225d85b2ef"
+        },
+        {
+            "index": 13,
+            "address": "0x22F84bB71a5A2A49b892cf85e9643cFf2cbdc3bE",
+            "privateKey": "0x83e477c6452251d6c98eff3b2e51524cb1cd5de78b267e5966fa1826554e5d3e"
+        },
+        {
+            "index": 14,
+            "address": "0xA78245edB53946626851b639E880CEd62e7b5f9f",
+            "privateKey": "0x65b8c9a043e7681ac1b14c857c7a5d211137e96b2b53716652000783fb6d6f77"
+        }
+    ]
+}

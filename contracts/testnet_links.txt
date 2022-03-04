@@ -1,0 +1,4 @@
+//Token
+https://rinkeby.etherscan.io/tx/0x3a9a3e7195be2c40ada3140ab74096bf89c1990b9e261becfd3899b50aba30ee
+//Distributor
+https://rinkeby.etherscan.io/address/0x208166e09a8828ddb9defa4156c0c1c182d631b6#code
